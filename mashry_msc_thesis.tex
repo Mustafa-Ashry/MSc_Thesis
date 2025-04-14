@@ -1,8 +1,6 @@
 \documentclass[12pt,twoside]{report}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\usepackage{lmodern}
 \usepackage{orcidlink}
-%\usepackage{academicons}
 \usepackage{graphicx}
 \graphicspath{{./figures/figures_ALRM/}{./figures/figures_ALRM_Pheno/}{./figures/figures_LRSM/}{./figures/figures_SM/}}
 \usepackage{psfrag}
@@ -187,8 +185,8 @@ Ahmed Elsayed~\footnote{\href{https://inspirehep.net/authors/1078349}{Research~(
 %\setcounter{page}{1}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \printnomenclature[2cm]
-{\typeout{Abstract}\include{Preample/Abstract}}
-{\typeout{Acknowledgements}\include{Preample/Ack}}
+{\typeout{Abstract}\include{Preamble/Abstract}}
+{\typeout{Acknowledgements}\include{Preamble/Ack}}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \afterpreface
 \def\baselinestretch{1}
@@ -202,17 +200,17 @@ Ahmed Elsayed~\footnote{\href{https://inspirehep.net/authors/1078349}{Research~(
 \fancyhead[RE]{\sl\leftmark} \fancyhead[RO,LE]{}
 \fancyhead[LO]{\sl\rightmark} \fancyfoot[L,E]{}\fancyfoot[C]{\rm\thepage}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-{\typeout{Introduction}\include{Preample/Intro}}
+{\typeout{Introduction}\include{Preamble/Intro}}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \include{Chapters/ch1}
 \include{Chapters/ch2}
 \include{Chapters/ch3}
-\include{Preample/Conc}
-\include{Preample/app}
+\include{Preamble/Conc}
+\include{Preamble/app}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \setlinespacing{1.44}
 \bibliographystyle{acm1}
-\bibliography{./Preample/Bib}
+\bibliography{./Preamble/Bib}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \end{document}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

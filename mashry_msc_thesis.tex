@@ -1,0 +1,234 @@
+\documentclass[12pt,twoside]{report}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\usepackage{lmodern}
+\usepackage{orcidlink}
+%\usepackage{academicons}
+\usepackage{graphicx}
+\graphicspath{{./figures/figures_ALRM/}{./figures/figures_ALRM_Pheno/}{./figures/figures_LRSM/}{./figures/figures_SM/}}
+\usepackage{psfrag}
+\usepackage[intoc]{nomencl}
+\renewcommand{\nomname}{List of Abbreviations}
+\makenomenclature
+\usepackage{pifont}
+\usepackage{slashbox}
+\newcommand{\cmark}{\ding{51}}%
+\newcommand{\xmark}{\ding{55}}%
+\usepackage{chngcntr}
+\usepackage{axodraw}
+\usepackage[centertags]{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{newlfont}
+\usepackage{xthesis}
+\usepackage{xtocinc}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage[avantgarde]{quotchap}
+\usepackage{fancyhdr}
+\usepackage[compat=1.0.0]{tikz-feynman}
+\usepackage[bookmarks=true,bookmarksnumbered=false,bookmarksopen=true,colorlinks=true,linkcolor=webred,breaklinks=true,citecolor=blue]{hyperref}
+%\usepackage[hyphenbreaks]{breakurl}
+%\usepackage{url}
+\definecolor{webgreen}{rgb}{0, 0.5, 0}
+\definecolor{webblue}{rgb}{0, 0, 0.5}
+\definecolor{webred}{rgb}{0.5, 0, 0}
+\usepackage{slashed}
+\usepackage{colortbl}
+\usepackage{array}
+\usepackage{color}
+\usepackage{xcolor}
+\usepackage{arydshln}
+\usepackage{lscape}
+\usepackage{changemargin}
+\usepackage{cite,amssymb}
+\renewcommand\chapterheadstartvskip{\vspace*{-\baselineskip}}
+\newtheorem{theorem}{Theorem}
+\newtheorem{corollary}{Corollary}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\hfuzz2pt
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newlength{\defbaselineskip}
+\setlength{\defbaselineskip}{\baselineskip}
+\newcommand{\setlinespacing}[1]{\setlength{\baselineskip}{#1 \defbaselineskip}}
+\newcommand{\doublespacing}{\setlength{\baselineskip}{2.0 \defbaselineskip}}
+\newcommand{\singlespacing}{\setlength{\baselineskip}{\defbaselineskip}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\SMsym}{$SU(3)_{_{C}}\times SU(2)_{_{L}}\times U(1)_{_{Y}}$}
+\newcommand{\LRMsym}{SU(3)_{_{C}}\times SU(2)_{_{L}}\times SU(2)_{_{R}}\times U(1)_{_{B-L}}}
+\newcommand{\Lg}{{\cal L}}
+\newcommand{\1}{\left}
+\newcommand{\2}{\right}
+\newcommand{\g}{\gamma}
+\newcommand{\p}{\partial}
+\newcommand{\lb}{\label}
+\newcommand{\rf}[1]{(\ref{#1})}
+\newcommand{\eq}[1]{eq.~(\ref{#1})}
+\newcommand{\be}{\begin{equation}\displaystyle}
+\newcommand{\ee}{\end{equation}}
+\newcommand{\bea}{\begin{eqnarray}\displaystyle}
+\newcommand{\eea}{\end{eqnarray}}
+\newcommand{\bes}{\begin{equation*}\displaystyle}
+\newcommand{\ees}{\end{equation*}}
+\newcommand{\beas}{\begin{eqnarray*}\displaystyle}
+\newcommand{\eeas}{\end{eqnarray*}}
+\newcommand{\n}{\nonumber\\}
+\newcommand{\s}{\smallskip}
+\newcommand{\tb}{\tan \beta}
+\newcommand{\non}{\nonumber}
+\newcommand{\ra}{\rightarrow}
+\newcommand{\dd}{\displaystyle}
+\newcommand{\pd}{\partial}
+\newcommand{\ovl}{\overline}
+\newcommand{\lm}{\lambda}
+\newcommand{\tw}{\theta_{_{W}}}
+\newcommand{\al}{\alpha}
+\newcommand{\red}[1]{\textcolor[rgb]{1,0,0}{#1}}
+\newcommand{\green}[1]{\textcolor[rgb]{0,1,0}{#1}}
+\newcommand{\blue}[1]{\textcolor[rgb]{0,0,1}{#1}}
+\newcommand{\feynrules}{{\sc FeynRules}}
+\newcommand{\FRversion}{2.0}
+\newcommand{\asperge}{{\sc ASperGe}}
+\newcommand{\gsl}{{\sc Gsl}}
+\newcommand{\feynarts}{{\sc FeynArts}}
+\newcommand{\feyncalc}{{\sc FeynCalc}}
+\newcommand{\mathematica}{{\sc Mathematica\textsuperscript{\textregistered}}}
+\newcommand{\calchep}{{\sc CalcHep}}
+\newcommand{\comphep}{{\sc CompHep}}
+\newcommand{\mgme}{{\sc MadGraph/MadEvent}}
+\newcommand{\ufo}{{\sc UFO}}
+\newcommand{\sherpa}{{\sc Sherpa}}
+\newcommand{\whizard}{{\sc Whizard}}
+\newcommand{\formcalc}{{\sc Form\-Calc}}
+\newcommand{\gosam}{{\sc GoSam}}
+\newcommand{\python}{{\sc Python}}
+\newcommand{\madgraph}{{\sc MadGraph}}
+\newcommand{\madevent}{{\sc MadEvent}}
+\newcommand{\madanalysis}{{\sc MadAnalysis}}
+\newcommand{\cernroot}{{\sc Root}}
+\newcommand{\aloha}{{\sc Aloha}}
+\newcommand{\herwig}{{\sc Herwig}}
+\newcommand{\lanhep}{{\sc LanHep}}
+\newcommand{\ohmega}{{\sc Omega}}
+\newcommand{\sarah}{{\sc Sarah}}
+\newcommand{\spheno}{{\sc SPheno}}
+\newcommand{\cpp}{{\sc C++}}
+\newcommand{\pythia}{{\sc Pythia}}
+\newcommand{\delphes}{{\sc Delphes}}
+\newcommand{\giant}{{\sc Giant}}
+\newcommand{\montecarlo}{{\sc MonteCarlo}}
+\newcommand{\madwidth}{{\sc MadWidth}}
+\newcommand{\vevacious}{{\sc vevacious}}
+\newcommand{\github}{{\sc GitHub}}
+\newcommand{\latex}{\LaTeX\xspace}
+\def\lsim{\raise0.3ex\hbox{$\;<$\kern-0.75em\raise-1.1ex\hbox{$\sim\;$}}}
+\def\gsim{\raise0.3ex\hbox{$\;>$\kern-0.75em\raise-1.1ex\hbox{$\sim\;$}}}
+\def\ie{{\it i.e.}}
+\def\bt{\begin{table}}
+\def\et{\end{table}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\numberwithin{equation}{section}
+\renewcommand{\theequation}{\thesection.\arabic{equation}}
+\renewcommand{\rm}{\textrm}
+\newcommand{\vev}[1]{\left\langle #1 \right\rangle}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setlength{\tclineskip}{1.05\baselineskip}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\dedicate{
+\vspace{-1.5cm}
+{\bf To}\\
+my family: my beloved parents
+\\\&\\
+The peaceful souls of my late brothers:
+\\~\\ 
+Mohamed Ashry (1976-2008) 
+\\and\\ 
+Ahmed Ashry (1983-2004)
+\\\&\\
+The smart souls of my late friends and colleagues:
+\\~\\ 
+Waleed A. Elsayed~\footnote{\href{https://inspirehep.net/authors/2430962}{Research~(https://inspirehep.net/authors/2430962)}} (1986-2015)
+\\and\\ 
+Ahmed Elsayed~\footnote{\href{https://inspirehep.net/authors/1078349}{Research~(https://inspirehep.net/authors/1078349)}} (1986-2013)
+}
+%\\ \includegraphics[width=4cm,height=4cm]{jap.eps}}
+\msc
+\copyrightyear{2015}
+\submitdate{June 2015}
+\convocation{June}{2015}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\twosupervisors
+\title{\textsl{TeV Scale Left-Right Symmetric Model with Minimal Higgs Sector}}
+\author{Mustafa Ashry Ibrahim Seif}
+\supervisor{Prof. Ahmad A. Amer
+\\\small{Department of Mathematics,}
+\\\small{Faculty of Science, Cairo University, Egypt}}
+\firstreader{Prof. Shaaban S. Khalil
+\\\small{Department of Mathematics,}\\\small{Faculty of Science, Ain Shams University, Egypt}
+\\and\\\small{Center for Fundamental Physics (CFP),}\\\small{Zewail City of Science and Technology, Egypt}}
+\examiner{Prof. Qaisar Shafi
+\\\small{Department of Physics and Astronomy,}\\\small{Delaware University, USA}}
+\secondreader{Prof. Tarek Ibrahim
+\\\small{Department of Physics,}\\\small{Alexandria University, Egypt}}
+%\\and\\\small{Center for Fundamental Physics (CFP),}\\\small{Zewail City of Science and Technology, Egypt}}
+\university{cairo university}
+\dept{Mathematics}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+{Mustafa Ashry\footnote{mustafa@sci.cu.edu.eg , mustafa@cu.edu.eg }$^{\Huge\orcidlink{0000-0003-4114-3684}}$}
+\allowdisplaybreaks
+{
+\typeout{:?000000000} % Don't bother with over/under-full boxes
+\beforepreface
+\typeout{:?111111111} % Process All Errors from Here on
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\setcounter{page}{1}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\printnomenclature[2cm]
+{\typeout{Abstract}\include{Preample/Abstract}}
+{\typeout{Acknowledgements}\include{Preample/Ack}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\afterpreface
+\def\baselinestretch{1}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setlinespacing{1.5}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\pagenumbering{arabic} \pagestyle{fancy}
+\renewcommand{\chaptermark}[1]{\markboth{\chaptername\ \thechapter:\,\ #1}{}}
+\renewcommand{\sectionmark}[1]{\markright{\thesection\,\ #1}}
+\addtolength{\headheight}{3pt} \fancyhead{}
+\fancyhead[RE]{\sl\leftmark} \fancyhead[RO,LE]{}
+\fancyhead[LO]{\sl\rightmark} \fancyfoot[L,E]{}\fancyfoot[C]{\rm\thepage}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+{\typeout{Introduction}\include{Preample/Intro}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\include{Chapters/ch1}
+\include{Chapters/ch2}
+\include{Chapters/ch3}
+\include{Preample/Conc}
+\include{Preample/app}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setlinespacing{1.44}
+\bibliographystyle{acm1}
+\bibliography{./Preample/Bib}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+For abbreviations list
+latex Thesis.tex
+bibtex Thesis.aux
+latex Thesis.tex
+latex Thesis.tex
+makeindex Thesis.nlo -s nomencl.ist -o Thesis.nls
+latex Thesis.tex
+dvips Thesis.dvi
+ps2pdf Thesis.ps
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+For abbreviations list
+latex <filename>.tex
+makeindex <filename>.nlo -s nomencl.ist -o <filename>.nls
+latex <filename>.tex
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+back cd .. 

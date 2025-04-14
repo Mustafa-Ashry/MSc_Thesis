@@ -1,0 +1,471 @@
+\begin{thebibliography}{10}
+
+\bibitem{Moriond1-CMS:2013}
+Talk by Christophe Ochando, on behalf of the CMS collaboration at Rencontres de
+  Moriond, QCD Session March 9-16, 2013:
+  http://moriond.in2p3.fr/QCD/2013/ThursdayMorning/Ochando.pdf.
+
+\bibitem{Moriond2-ATLAS:2013}
+Talk by Eleni Mountricha, on behalf of the ATLAS collaboration at Rencontres de
+  Moriond, QCD Session March 9-16, 2013:
+  http://moriond.in2p3.fr/QCD/2013/ThursdayMorning/Mountricha2.pdf.
+
+\bibitem{Collaboration:2011dca}
+Aad, G., et~al.
+\newblock {\em {Search for dilepton resonances in $pp$ collisions at
+  $\sqrt{s}=7$ TeV with the ATLAS detector}}.
+\newblock Phys.Rev.Lett. {\bfseries 107} (2011), 272002.
+
+\bibitem{Aad:2014eha}
+Aad, G., et~al.
+\newblock {\em {Measurement of Higgs boson production in the diphoton decay
+  channel in pp collisions at center-of-mass energies of 7 and 8 TeV with the
+  ATLAS detector}}.
+\newblock Phys. Rev. {\bfseries D90} (2014), 112015.
+
+\bibitem{Alekhin:2002fv}
+Alekhin, S.
+\newblock {\em {Parton distributions from deep inelastic scattering data}}.
+\newblock Phys. Rev. {\bfseries D68} (2003), 014002.
+
+\bibitem{Alloul:2013bka}
+Alloul, A., Christensen, N.~D., Degrande, C., Duhr, C., and Fuks, B.
+\newblock {\em {FeynRules 2.0 - A complete toolbox for tree-level
+  phenomenology}}.
+\newblock Comput. Phys. Commun. {\bfseries 185} (2014), 2250--2300.
+
+\bibitem{Alwall:2011uj}
+Alwall, J., Herquet, M., Maltoni, F., Mattelaer, O., and Stelzer, T.
+\newblock {\em {MadGraph 5 : Going Beyond}}.
+\newblock JHEP {\bfseries 1106} (2011), 128.
+
+\bibitem{Antcheva:2009zz}
+Antcheva, I., et~al.
+\newblock {\em {ROOT: A C++ framework for petabyte data storage, statistical
+  analysis and visualization}}.
+\newblock Comput. Phys. Commun. {\bfseries 180} (2009), 2499--2512.
+
+\bibitem{86718}
+Ashry, M.
+\newblock {\em TeV Scale Left-Right Symmetric Model With Minimal Higgs Sector}.
+\newblock Msc thesis, Cairo University, Cairo, 2015.
+
+\bibitem{Ashry:2015ypa}
+Ashry, M.
+\newblock {\em {TeV Scale Left-Right Symmetric Model with Minimal Higgs
+  Sector}}.
+\newblock Master's thesis, Faculty of Science, Cairo University, 2015.
+
+\bibitem{Ashry:2013loa}
+Ashry, M., and Khalil, S.
+\newblock {\em {Phenomenological aspects of a TeV-scale alternative left-right
+  model}}.
+\newblock Phys. Rev. {\bfseries D91} (2015), 015009.
+
+\bibitem{Aulakh:1998nn}
+Aulakh, C.~S., Melfo, A., and Senjanovic, G.
+\newblock {\em {Minimal supersymmetric left-right model}}.
+\newblock Phys.Rev. {\bfseries D57} (1998), 4174--4178.
+
+\bibitem{Babu:1987kp}
+Babu, K., He, X.-G., and Ma, E.
+\newblock {\em {New Supersymmetric Left-Right Gauge Model: Higgs Boson
+  Structure and Neutral Current Analysis}}.
+\newblock Phys.Rev. {\bfseries D36} (1987), 878.
+
+\bibitem{Barenboim:2001vu}
+Barenboim, G., Gorbahn, M., Nierste, U., and Raidal, M.
+\newblock {\em {Higgs sector of the minimal left-right symmetric model}}.
+\newblock Phys.Rev. {\bfseries D65} (2002), 095003.
+
+\bibitem{Basak:2013eba}
+Basak, T., and Mohanty, S.
+\newblock {\em {130 GeV gamma ray line and enhanced Higgs di-photon rate from
+  Triplet-Singlet extended MSSM}}.
+\newblock JHEP {\bfseries 1308} (2013), 020.
+
+\bibitem{Belyaev:2012qa}
+Belyaev, A., Christensen, N.~D., and Pukhov, A.
+\newblock {\em {CalcHEP 3.4 for collider physics within and beyond the Standard
+  Model}}.
+\newblock Comput.Phys.Commun. {\bfseries 184} (2013), 1729--1769.
+
+\bibitem{Berg:2012cg}
+Berg, M., Buchberger, I., Ghilencea, D., and Petersson, C.
+\newblock {\em {Higgs diphoton rate enhancement from supersymmetric physics
+  beyond the MSSM}}.
+\newblock Phys.Rev. {\bfseries D88} (2013), 025017.
+
+\bibitem{Dev:2013ff}
+Bhupal~Dev, P., Ghosh, D.~K., Okada, N., and Saha, I.
+\newblock {\em {125 GeV Higgs Boson and the Type-II Seesaw Model}}.
+\newblock JHEP {\bfseries 1303} (2013), 150.
+
+\bibitem{Borah:2010zq}
+Borah, D., Patra, S., and Sarkar, U.
+\newblock {\em {TeV scale Left Right Symmetry with spontaneous D-parity
+  breaking}}.
+\newblock Phys.Rev. {\bfseries D83} (2011), 035007.
+
+\bibitem{0954-3899-28-5-305}
+Botje, M.
+\newblock {\em Error estimates on parton density distributions}.
+\newblock Journal of Physics G: Nuclear and Particle Physics {\bfseries 28}
+  (2002), 779.
+
+\bibitem{Brun:1997pa}
+Brun, R., and Rademakers, F.
+\newblock {\em {ROOT: An object oriented data analysis framework}}.
+\newblock Nucl. Instrum. Meth. {\bfseries A389} (1997), 81--86.
+
+\bibitem{Cao:2013wqa}
+Cao, J., Wan, P., Yang, J.~M., and Zhu, J.
+\newblock {\em {The SM extension with color-octet scalars: diphoton enhancement
+  and global fit of LHC Higgs data}}.
+\newblock JHEP {\bfseries 1308} (2013), 009.
+
+\bibitem{Carena:2012xa}
+Carena, M., Low, I., and Wagner, C.~E.
+\newblock {\em {Implications of a Modified Higgs to Diphoton Decay Width}}.
+\newblock JHEP {\bfseries 1208} (2012), 060.
+
+\bibitem{Casas:2001sr}
+Casas, J., and Ibarra, A.
+\newblock {\em {Oscillating neutrinos and muon to e, gamma}}.
+\newblock Nucl.Phys. {\bfseries B618} (2001), 171--204.
+
+\bibitem{Chang:2012ta}
+Chang, W.-F., Ng, J.~N., and Wu, J.~M.
+\newblock {\em {Constraints on New Scalars from the LHC 125 GeV Higgs Signal}}.
+\newblock Phys.Rev. {\bfseries D86} (2012), 033003.
+
+\bibitem{Chao:2012xt}
+Chao, W., Zhang, J.-H., and Zhang, Y.
+\newblock {\em {Vacuum Stability and Higgs Diphoton Decay Rate in the Zee-Babu
+  Model}}.
+\newblock JHEP {\bfseries 1306} (2013), 039.
+
+\bibitem{Chatrchyan:2011wq}
+Chatrchyan, S., et~al.
+\newblock {\em {Search for Resonances in the Dilepton Mass Distribution in $pp$
+  Collisions at $\sqrt(s) = 7$ TeV}}.
+\newblock JHEP {\bfseries 1105} (2011), 093.
+
+\bibitem{Cheng:1985bj}
+Cheng, T.~P., and Li, L.~F.
+\newblock {\em {GAUGE THEORY OF ELEMENTARY PARTICLE PHYSICS}}.
+\newblock Oxford, Uk: Clarendon ( 1984) 536 P. ( Oxford Science Publications),
+  1984.
+
+\bibitem{ATLASNOTE2:2013}
+Collaboration, A.
+\newblock {\em {Combined coupling measurements of the Higgs-like boson with the
+  ATLAS detector using up to 25 fb$^{-1}$ of proton-proton collision data}}
+  (2013).
+
+\bibitem{CMSNOTE1:2013}
+Collaboration, C.
+\newblock {\em {Combination of standard model Higgs boson searches and
+  measurements of the properties of the new boson with a mass near 125 GeV}}
+  (2013).
+
+\bibitem{Conte:2012fm}
+Conte, E., Fuks, B., and Serret, G.
+\newblock {\em {MadAnalysis 5, A User-Friendly Framework for Collider
+  Phenomenology}}.
+\newblock Comput. Phys. Commun. {\bfseries 184} (2013), 222--256.
+
+\bibitem{deFavereau:2013fsa}
+de~Favereau, J., Delaere, C., Demin, P., Giammanco, A., Lemaître, V., Mertens,
+  A., and Selvaggi, M.
+\newblock {\em {DELPHES 3, A modular framework for fast simulation of a generic
+  collider experiment}}.
+\newblock JHEP {\bfseries 02} (2014), 057.
+
+\bibitem{Deshpande:1990ip}
+Deshpande, N., Gunion, J., Kayser, B., and Olness, F.~I.
+\newblock {\em {Left-right symmetric electroweak models with triplet Higgs}}.
+\newblock Phys.Rev. {\bfseries D44} (1991), 837--858.
+
+\bibitem{Djouadi:2005gi}
+Djouadi, A.
+\newblock {\em {The Anatomy of electro-weak symmetry breaking. I: The Higgs
+  boson in the standard model}}.
+\newblock Phys.Rept. {\bfseries 457} (2008), 1--216.
+
+\bibitem{Djouadi:2005gj}
+Djouadi, A.
+\newblock {\em {The Anatomy of electro-weak symmetry breaking. II. The Higgs
+  bosons in the minimal supersymmetric model}}.
+\newblock Phys.Rept. {\bfseries 459} (2008), 1--241.
+
+\bibitem{Ellis1976292}
+Ellis, J., Gaillard, M.~K., and Nanopoulos, D.
+\newblock {\em A phenomenological profile of the Higgs boson}.
+\newblock Nuclear Physics B {\bfseries 106} (1976), 292 -- 340.
+
+\bibitem{zbMATH03887637}
+{Euler}, L.
+\newblock {\em {Elements of algebra. Transl. from the French by John Hewlett.
+  Reprinted from the fifth edition, Longman, Orme, and Co., London 1840. With
+  an introduction by C. Truesdell.}}
+\newblock {New York etc.: Springer-Verlag. LX, 593 p. DM 88.00; {\$} 30.90
+  (1984).}, 1984.
+
+\bibitem{10.2307/2975214}
+Faucette, W.~M.
+\newblock {\em A Geometric Interpretation of the Solution of the General
+  Quartic Polynomial}.
+\newblock The American Mathematical Monthly {\bfseries 103} (1996), 51--57.
+
+\bibitem{Feng:2013mea}
+Feng, W.-Z., and Nath, P.
+\newblock {\em {Higgs diphoton rate and mass enhancement with vector-like
+  leptons and the scale of supersymmetry}}.
+\newblock Phys.Rev. {\bfseries D87} (2013), 075018.
+
+\bibitem{Gastmans:2011wh}
+Gastmans, R., Wu, S.~L., and Wu, T.~T.
+\newblock {\em {Higgs Decay into Two Photons, Revisited}}  (2011).
+
+\bibitem{Guadagnoli:2010sd}
+Guadagnoli, D., and Mohapatra, R.~N.
+\newblock {\em {TeV Scale Left Right Symmetry and Flavor Changing Neutral Higgs
+  Effects}}.
+\newblock Phys.Lett. {\bfseries B694} (2011), 386--392.
+
+\bibitem{Kannike:2012pe}
+Kannike, K.
+\newblock {\em {Vacuum Stability Conditions From Copositivity Criteria}}.
+\newblock Eur.Phys.J. {\bfseries C72} (2012), 2093.
+
+\bibitem{Khachatryan:2014ira}
+Khachatryan, V., et~al.
+\newblock {\em {Observation of the diphoton decay of the Higgs boson and
+  measurement of its properties}}.
+\newblock Eur. Phys. J. {\bfseries C74} (2014), 3076.
+
+\bibitem{Khalil:2010yt}
+Khalil, S., Lee, H.-S., and Ma, E.
+\newblock {\em {Bound on Z' Mass from CDMS II in the Dark Left-Right Gauge
+  Model II}}.
+\newblock Phys.Rev. {\bfseries D81} (2010), 051702.
+
+\bibitem{Khalil2013473}
+Khalil, S., and Salem, S.
+\newblock {\em Enhancement of in model with -plet}.
+\newblock Nuclear Physics B {\bfseries 876} (2013), 473 -- 492.
+
+\bibitem{Lai:1999wy}
+Lai, H.~L., Huston, J., Kuhlmann, S., Morfin, J., Olness, F.~I., Owens, J.~F.,
+  Pumplin, J., and Tung, W.~K.
+\newblock {\em {Global QCD analysis of parton structure of the nucleon: CTEQ5
+  parton distributions}}.
+\newblock Eur. Phys. J. {\bfseries C12} (2000), 375--392.
+
+\bibitem{Langacker:1984dp}
+Langacker, P.
+\newblock {\em {Bounds on Mixing Between Light and Heavy Gauge Bosons}}.
+\newblock Phys.Rev. {\bfseries D30} (1984), 2008.
+
+\bibitem{Langacker:2010zza}
+Langacker, P.
+\newblock {\em {The standard model and beyond}}.
+\newblock Thesis  (2010).
+
+\bibitem{Langacker:1989xa}
+Langacker, P., and Sankar, S.~U.
+\newblock {\em {Bounds on the Mass of W(R) and the W(L)-W(R) Mixing Angle xi in
+  General SU(2)-L x SU(2)-R x U(1) Models}}.
+\newblock Phys.Rev. {\bfseries D40} (1989), 1569--1585.
+
+\bibitem{LAZARD1988261}
+Lazard, D.
+\newblock {\em Quantifier elimination: Optimal solution for two classical
+  examples}.
+\newblock Journal of Symbolic Computation {\bfseries 5} (1988), 261 -- 266.
+
+\bibitem{Ma:1986we}
+Ma, E.
+\newblock {\em {Particle Dichotomy and Left-Right Decomposition of E(6)
+  Superstring Models}}.
+\newblock Phys.Rev. {\bfseries D36} (1987), 274.
+
+\bibitem{Ma:2010us}
+Ma, E.
+\newblock {\em {Dark Left-Right Model: CDMS, LHC, etc}}.
+\newblock J.Phys.Conf.Ser. {\bfseries 315} (2011), 012006.
+
+\bibitem{PhysRevD.85.091701}
+Ma, E.
+\newblock {\em Dark-matter fermion from left-right symmetry}.
+\newblock Phys. Rev. D {\bfseries 85} (2012), 091701.
+
+\bibitem{Maiezza:2010ic}
+Maiezza, A., Nemevsek, M., Nesti, F., and Senjanovic, G.
+\newblock {\em {Left-Right Symmetry at LHC}}.
+\newblock Phys.Rev. {\bfseries D82} (2010), 055022.
+
+\bibitem{Maiezza:2012Nesti}
+Maiezza, A., and Universit{\`a} degli studi dell'Aquila. Facolt{\`a} di~scienze
+  matematiche, f. e.~n.
+\newblock {\em Left-right Symmetry at LHC and Phenomenological Implications}.
+\newblock Università degli studi dell'Aquila. Facoltà di scienze matematiche,
+  fisiche e naturali, 2012.
+
+\bibitem{Martin:2003tt}
+Martin, A.~D., Roberts, R.~G., Stirling, W.~J., and Thorne, R.~S.
+\newblock {\em {MRST partons and uncertainties}}.
+\newblock In {\em {Proceedings, 11th International Workshop on Deep Inelastic
+  Scattering (DIS 2003)}\/} (2003), pp.~150--154.
+
+\bibitem{Messier:2006yg1}
+Messier, M.~D.
+\newblock {\em {Review of neutrino oscllations experiments}}.
+\newblock eConf {\bfseries C060409} (2006), 018.
+
+\bibitem{Mohapatra20031}
+Mohapatra, R.
+\newblock {\em Unification and Supersymmetry. Third edition}.
+\newblock Springer, New York, 2003.
+
+\bibitem{Mohapatra:1974gc}
+Mohapatra, R., and Pati, J.~C.
+\newblock {\em {A Natural Left-Right Symmetry}}.
+\newblock Phys.Rev. {\bfseries D11} (1975), 2558.
+
+\bibitem{Mohapatra:1986uf}
+Mohapatra, R.~N.
+\newblock {\em {UNIFICATION AND SUPERSYMMETRY. THE FRONTIERS OF QUARK - LEPTON
+  PHYSICS}}.
+\newblock Springer, Berlin, 1986.
+
+\bibitem{Mohapatra:1977mj}
+Mohapatra, R.~N., Paige, F.~E., and Sidhu, D.
+\newblock {\em {Symmetry Breaking and Naturalness of Parity Conservation in
+  Weak Neutral Currents in Left-Right Symmetric Gauge Theories}}.
+\newblock Phys.Rev. {\bfseries D17} (1978), 2462.
+
+\bibitem{Mohapatra:1979ia}
+Mohapatra, R.~N., and Senjanovic, G.
+\newblock {\em {Neutrino Mass and Spontaneous Parity Violation}}.
+\newblock Phys.Rev.Lett. {\bfseries 44} (1980), 912.
+
+\bibitem{Mohapatra:1980yp}
+Mohapatra, R.~N., and Senjanovic, G.
+\newblock {\em {Neutrino Masses and Mixings in Gauge Models with Spontaneous
+  Parity Violation}}.
+\newblock Phys.Rev. {\bfseries D23} (1981), 165.
+
+\bibitem{Mohapatra:1977be}
+Mohapatra, R.~N., and Sidhu, D.~P.
+\newblock {\em {Gauge Theories of Weak Interactions with Left-Right Symmetry
+  and the Structure of Neutral Currents}}.
+\newblock Phys.Rev. {\bfseries D16} (1977), 2843.
+
+\bibitem{Mrenna:2003if}
+Mrenna, S., and Richardson, P.
+\newblock {\em {Matching matrix elements and parton showers with HERWIG and
+  PYTHIA}}.
+\newblock JHEP {\bfseries 05} (2004), 040.
+
+\bibitem{Nemevsek:2012iq}
+Nemevsek, M., Senjanovic, G., and Tello, V.
+\newblock {\em {Left-Right Symmetry: from Majorana to Dirac}}.
+\newblock Phys.Rev.Lett. {\bfseries 110} (2013), 151802.
+
+\bibitem{Pati:1974yy}
+Pati, J.~C., and Salam, A.
+\newblock {\em {Lepton Number as the Fourth Color}}.
+\newblock Phys.Rev. {\bfseries D10} (1974), 275--289.
+
+\bibitem{Olive:2016xmw}
+Patrignani, C., et~al.
+\newblock {\em {Review of Particle Physics}}.
+\newblock Chin. Phys. {\bfseries C40} (2016), 100001.
+
+\bibitem{Peskin:1995ev}
+Peskin, M.~E., and Schroeder, D.~V.
+\newblock {\em {An Introduction to quantum field theory}}.
+\newblock Addison-Wesley Publishing Company, 1995.
+
+\bibitem{Picek:2012ei}
+Picek, I., and Radovcic, B.
+\newblock {\em {Enhancement of $h \to \gamma \gamma$ by seesaw-motivated exotic
+  scalars}}.
+\newblock Phys.Lett. {\bfseries B719} (2013), 404--408.
+
+\bibitem{Ping1993109}
+Ping, L., and Yu, F.~Y.
+\newblock {\em Criteria for copositive matrices of order four}.
+\newblock Linear Algebra and its Applications {\bfseries 194} (1993), 109 --
+  124.
+
+\bibitem{Pumplin:2002vw}
+Pumplin, J., Stump, D.~R., Huston, J., Lai, H.~L., Nadolsky, P.~M., and Tung,
+  W.~K.
+\newblock {\em {New generation of parton distributions with uncertainties from
+  global QCD analysis}}.
+\newblock JHEP {\bfseries 07} (2002), 012.
+
+\bibitem{10.2307/2972804}
+Rees, E.~L.
+\newblock {\em Graphical Discussion of the Roots of a Quartic Equation}.
+\newblock The American Mathematical Monthly {\bfseries 29} (1922), 51--55.
+
+\bibitem{Senjanovic:1975rk}
+Senjanovic, G., and Mohapatra, R.~N.
+\newblock {\em {Exact Left-Right Symmetry and Spontaneous Violation of
+  Parity}}.
+\newblock Phys.Rev. {\bfseries D12} (1975), 1502.
+
+\bibitem{Sjostrand:2003wg}
+Sjostrand, T., Lonnblad, L., Mrenna, S., and Skands, P.~Z.
+\newblock {\em {Pythia 6.3 physics and manual}}  (2003).
+
+\bibitem{Sjostrand:2006za}
+Sjostrand, T., Mrenna, S., and Skands, P.~Z.
+\newblock {\em {PYTHIA 6.4 Physics and Manual}}.
+\newblock JHEP {\bfseries 05} (2006), 026.
+
+\bibitem{Sjostrand:2007gs}
+Sjostrand, T., Mrenna, S., and Skands, P.~Z.
+\newblock {\em {A Brief Introduction to PYTHIA 8.1}}.
+\newblock Comput. Phys. Commun. {\bfseries 178} (2008), 852--867.
+
+\bibitem{Tanabashi:2018oca}
+Tanabashi, M., et~al.
+\newblock {\em {Review of Particle Physics}}.
+\newblock Phys. Rev. {\bfseries D98} (2018), 030001.
+
+\bibitem{Tello:2012qda}
+Tello, V.
+\newblock {\em {Connections between the high and low energy violation of Lepton
+  and Flavor numbers in the minimal left-right symmetric model}}.
+\newblock PhD thesis, SISSA, Trieste, 2012.
+
+\bibitem{Thorne:2006zu}
+Thorne, R.~S., Martin, A.~D., and Stirling, W.~J.
+\newblock {\em {MRST parton distributions: Status 2006}}.
+\newblock In {\em {Deep inelastic scattering. Proceedings, 14th International
+  Workshop, DIS 2006, Tsukuba, Japan, April 20-24, 2006}\/} (2006), pp.~81--84.
+
+\bibitem{VanderHoek:2007ria}
+Van~der Hoek, D.~J.
+\newblock {\em {Massive neutrinos and their occurence in a left-right symmetric
+  model}}.
+\newblock Master's thesis, Groningen U., 2007.
+
+\bibitem{zbMATH00048827}
+{Van der Waerden}, B.~L.
+\newblock {\em {Algebra. Volume I. Based in part on lectures by E. Artin and E.
+  Noether. Transl. from the German 7th ed. by Fred Blum and John R.
+  Schulenberger.}}
+\newblock New York etc.: Springer-Verlag, 1991.
+
+\bibitem{Yao:2006px}
+Yao, W., et~al.
+\newblock {\em {Review of Particle Physics}}.
+\newblock J.Phys. {\bfseries G33} (2006), 1--1232.
+
+\end{thebibliography}

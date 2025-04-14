@@ -1,0 +1,107 @@
+\contentsline {chapter}{Table of Contents}{v}{chapter*.1}%
+\contentsline {chapter}{List of Tables}{viii}{chapter*.1}%
+\contentsline {chapter}{List of Figures}{ix}{chapter*.2}%
+\contentsline {chapter}{\nonumberline List of Abbreviations}{xii}{chapter*.4}%
+\contentsline {chapter}{Abstract}{xiii}{chapter*.5}%
+\contentsline {chapter}{Acknowledgements}{xiv}{chapter*.6}%
+\contentsline {chapter}{Introduction}{1}{chapter*.7}%
+\contentsline {chapter}{\numberline {1}LEFT-RIGHT SYMMETRIC MODEL}{7}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Introduction}{7}{section.1.1}%
+\contentsline {section}{\numberline {1.2}The Standard Model}{8}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}The SM Lagrangian}{10}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Spontaneous Symmetry Breaking in the SM}{13}{subsection.1.2.2}%
+\contentsline {subsubsection}{Gauge Boson Masses in the SM}{14}{section*.10}%
+\contentsline {subsubsection}{Fermion Masses in the SM}{15}{section*.11}%
+\contentsline {subsection}{\numberline {1.2.3}Electroweak Interactions in the SM}{16}{subsection.1.2.3}%
+\contentsline {subsubsection}{Electromagnetic Interactions in the SM}{17}{section*.12}%
+\contentsline {subsubsection}{Neutral Weak Current Interactions in the SM}{17}{section*.14}%
+\contentsline {subsubsection}{Charged Weak Current Interactions in the SM}{18}{section*.16}%
+\contentsline {subsection}{\numberline {1.2.4}Higgs Interactions in the SM}{20}{subsection.1.2.4}%
+\contentsline {subsubsection}{Higgs-Gauge Boson Interactions in the SM}{20}{section*.18}%
+\contentsline {subsubsection}{Higgs-Fermion Interactions in the SM}{20}{section*.20}%
+\contentsline {section}{\numberline {1.3}Description of the LRSM}{21}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Gauge Lagrangian}{23}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Kinetic Lagrangian}{24}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}Scalar Lagrangian}{25}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.3.4}Yukawa Lagrangian}{28}{subsection.1.3.4}%
+\contentsline {subsection}{\numberline {1.3.5}The Left-Right Symmetry}{28}{subsection.1.3.5}%
+\contentsline {section}{\numberline {1.4}Spontaneous Symmetry Breaking in the LRSM}{29}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Gauge Boson Masses in the LRSM}{31}{subsection.1.4.1}%
+\contentsline {subsubsection}{Charged Gauge Bosons in the LRSM}{34}{section*.24}%
+\contentsline {subsubsection}{Neutral Gauge Bosons in the LRSM}{37}{section*.25}%
+\contentsline {subsubsection}{Gauge Numerical Session in the LRSM}{42}{section*.28}%
+\contentsline {subsection}{\numberline {1.4.2}Fermion Masses in the LRSM}{43}{subsection.1.4.2}%
+\contentsline {section}{\numberline {1.5}Electroweak Interactions in the LRSM}{45}{section.1.5}%
+\contentsline {subsubsection}{Electromagnetic Interactions in the LRSM}{46}{section*.30}%
+\contentsline {subsubsection}{Neutral Current Interactions in the LRSM}{47}{section*.32}%
+\contentsline {subsubsection}{Charged Current Interactions in the LRSM}{48}{section*.34}%
+\contentsline {section}{\numberline {1.6}Higgs Sector in the LRSM}{50}{section.1.6}%
+\contentsline {subsection}{\numberline {1.6.1}Doubly-Charged Scalars}{53}{subsection.1.6.1}%
+\contentsline {subsection}{\numberline {1.6.2}Singly Charged Scalars}{55}{subsection.1.6.2}%
+\contentsline {subsection}{\numberline {1.6.3}Neutral Pseudoscalars}{57}{subsection.1.6.3}%
+\contentsline {subsection}{\numberline {1.6.4}Neutral Scalars}{59}{subsection.1.6.4}%
+\contentsline {subsection}{\numberline {1.6.5}Higgs Numerical Session in the LRSM}{64}{subsection.1.6.5}%
+\contentsline {subsection}{\numberline {1.6.6}Higgs Interactions in the LRSM}{68}{subsection.1.6.6}%
+\contentsline {subsubsection}{Higgs-Gauge Boson Interactions in the LRSM}{68}{section*.46}%
+\contentsline {subsubsection}{Higgs-Fermion Interactions and Tree-level Flavor-Changing Neutral Currents in the LRSM}{70}{section*.47}%
+\contentsline {chapter}{\numberline {2}ALTERNATIVE LEFT-RIGHT SYMMETRIC MODEL}{73}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduction}{73}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Description of the ALRM}{74}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Kinetic Lagrangian}{75}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Scalar Lagrangian}{76}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Yukawa Lagrangian}{78}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Ghost Lagrangian}{78}{subsection.2.2.4}%
+\contentsline {section}{\numberline {2.3}Spontaneous Symmetry Breaking in the ALRM}{79}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Gauge Boson Masses in the ALRM}{80}{subsection.2.3.1}%
+\contentsline {subsubsection}{Charged Gauge bosons}{81}{section*.50}%
+\contentsline {subsubsection}{Neutral Gauge bosons and Weinberg Angle}{82}{section*.51}%
+\contentsline {subsection}{\numberline {2.3.2}Fermion Masses in the ALRM}{86}{subsection.2.3.2}%
+\contentsline {section}{\numberline {2.4}Higgs Sector in the ALRM}{88}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Higgs Masses and Mixing in the ALRM}{88}{subsection.2.4.1}%
+\contentsline {subsubsection}{Charged Higgs bosons}{89}{section*.55}%
+\contentsline {subsubsection}{$CP$-odd Higgs bosons}{90}{section*.57}%
+\contentsline {subsubsection}{$CP$-even Higgs bosons}{92}{section*.59}%
+\contentsline {subsection}{\numberline {2.4.2}Higgs Numerical Session in the ALRM}{98}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Higgs Interactions in the ALRM}{100}{subsection.2.4.3}%
+\contentsline {subsubsection}{Higgs-Gauge Boson Interactions in the ALRM}{101}{section*.66}%
+\contentsline {subsubsection}{Higgs-Fermion Interactions in the ALRM}{104}{section*.69}%
+\contentsline {subsubsection}{The SM-like Higgs couplings in the ALRM}{106}{section*.71}%
+\contentsline {chapter}{\numberline {3}PHENOMENOLOGICAL ASPECTS OF THE ALRM}{107}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{107}{section.3.1}%
+\contentsline {section}{\numberline {3.2}The $h\to \gamma \gamma $ Decay in the ALRM}{108}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Higgs Production}{110}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Higgs Decays}{114}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}The $h\to \gamma \gamma $ Decay}{118}{subsection.3.2.3}%
+\contentsline {section}{\numberline {3.3}ALRM Signatures at the LHC}{131}{section.3.3}%
+\contentsline {chapter}{\numberline {4}Conclusion}{138}{chapter.4}%
+\contentsline {chapter}{\numberline {A}Pauli, Dirac and Gell-Mann Matrices}{139}{appendix.A}%
+\contentsline {subsubsection}{Pauli Matrices}{139}{section*.101}%
+\contentsline {subsubsection}{Dirac Matrices}{140}{section*.102}%
+\contentsline {subsubsection}{Gell-Mann Matrices}{140}{section*.103}%
+\contentsline {chapter}{\numberline {B}The Electric Charge Formula and Gauge Coupling Relations}{142}{appendix.B}%
+\contentsline {subsubsection}{The Electric Charge Formula}{142}{section*.104}%
+\contentsline {subsubsection}{Gauge Coupling Relations}{144}{section*.105}%
+\contentsline {chapter}{\numberline {C}Gauge Transformations and Covariant Derivatives}{145}{appendix.C}%
+\contentsline {chapter}{\numberline {D}The Higgs Potential in the ALRM}{148}{appendix.D}%
+\contentsline {section}{\numberline {D.1}Boundedness From Below Conditions of the ALRM Potential}{148}{section.D.1}%
+\contentsline {section}{\numberline {D.2}Minimization of the ALRM Potential}{155}{section.D.2}%
+\contentsline {chapter}{\numberline {E}Mass Matrix Diagonlization}{157}{appendix.E}%
+\contentsline {section}{\numberline {E.1}Eigenvalues}{157}{section.E.1}%
+\contentsline {section}{\numberline {E.2}Nonsingular Mass Matrix Diagonlization}{159}{section.E.2}%
+\contentsline {subsection}{\numberline {E.2.1}Example: $n=2$}{160}{subsection.E.2.1}%
+\contentsline {subsection}{\numberline {E.2.2}Example: $n=3$}{161}{subsection.E.2.2}%
+\contentsline {subsection}{\numberline {E.2.3}Example: $n=4$}{162}{subsection.E.2.3}%
+\contentsline {section}{\numberline {E.3}Singular Mass Matrix Diagonlization}{163}{section.E.3}%
+\contentsline {subsection}{\numberline {E.3.1}Example: $n=2$}{165}{subsection.E.3.1}%
+\contentsline {subsection}{\numberline {E.3.2}Example: $n=3$}{165}{subsection.E.3.2}%
+\contentsline {subsubsection}{Case: $s=1$}{165}{section*.106}%
+\contentsline {subsubsection}{Case: $s=2$}{165}{section*.107}%
+\contentsline {subsection}{\numberline {E.3.3}Example: $n=4$}{166}{subsection.E.3.3}%
+\contentsline {subsubsection}{Case: $s=1$}{166}{section*.108}%
+\contentsline {subsubsection}{Case: $s=2$}{166}{section*.109}%
+\contentsline {subsubsection}{Case: $s=3$}{167}{section*.110}%
+\contentsline {section}{\numberline {E.4}{\scshape Mathematica\textsuperscript {\textregistered }}\ Codes}{167}{section.E.4}%
+\contentsline {subsubsection}{A {\scshape Mathematica\textsuperscript {\textregistered }}\ Code for Diagonalization}{167}{section*.111}%
+\contentsline {subsubsection}{A {\scshape Mathematica\textsuperscript {\textregistered }}\ Code for a Signular Diagonalization}{169}{section*.112}%
+\contentsline {subsubsection}{A {\scshape Mathematica\textsuperscript {\textregistered }}\ Code for fhe Characteristic Polynomial}{171}{section*.113}%
+\contentsline {chapter}{Bibliography}{173}{section*.113}%
